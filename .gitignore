@@ -1,0 +1,5 @@
+test
+*~
+*.sum
+*.log
+expected.txt
